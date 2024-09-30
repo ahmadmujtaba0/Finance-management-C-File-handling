@@ -109,13 +109,11 @@ mujtaba 123 mujtaba@gmail.com 1142
 Amount: 56000
 Description: Funds Added
 Time: Mon Sep 30 13:44:56 2024
---------------------------
 
 ---Details of Transaction---
 Amount: 3500
 Description: Gym Fee
 Time: Mon Sep 30 13:46:55 2024
---------------------------
 
 
 This are functionalities of my simple code that i have done to boost my Concepts of c++ language and to prepare myself for furtur improvement.
