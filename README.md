@@ -118,6 +118,9 @@ Time: Mon Sep 30 13:46:55 2024
 --------------------------
 
 
+This are functionalities of my simple code that i have done to boost my Concepts of c++ language and to prepare myself for furtur improvement.
+
+
 
 
 
