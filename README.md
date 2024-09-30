@@ -43,7 +43,7 @@ UUID: 1142
 Login Successful!
 
 
-  *Add amount:
+  * Add amount:
   
 -----Transaction Menu-----
 1. Add Amount
@@ -61,7 +61,7 @@ Description: Funds Added
 Time: Mon Sep 30 13:44:56 2024
 
 
-  *Add Expence
+  * Add Expence
 
 -----Transaction Menu-----
 1. Add Amount
