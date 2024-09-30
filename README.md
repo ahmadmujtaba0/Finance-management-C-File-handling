@@ -2,7 +2,7 @@
 This C++ project helps users manage their money by allowing them to register, log in, and track their income and expenses. Users can add funds and record transactions, with all data saved in files for easy access.
 
 
-How To Run:
+--- How To Run:
  * Execute Code and register your account(if not registered)
  * After Successfull registration, Login to your account
  * After login your current balance will shown to you.
@@ -11,7 +11,7 @@ How To Run:
    will be updated in User Balance File after each transaction.
 
 
-Sample of Each Functionality:
+--- Sample of Each Functionality:
   * Register:
 
 Welcome to Finance Management System
@@ -91,7 +91,7 @@ Logging Out...
 
 
 
-Data Stored In File:
+--- Data Stored In File:
 
   * User File:
 
