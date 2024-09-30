@@ -105,7 +105,7 @@ mujtaba 123 mujtaba@gmail.com 1142
 
   * User Transaction File:
 
----Details of Transaction---
+---Detail of Transaction---
 Amount: 56000
 Description: Funds Added 
 Time: Mon Sep 30 13:44:56 2024
